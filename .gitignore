@@ -1,0 +1,11 @@
+__pycache__/
+.cache
+.pytest_cache/
+.ipynb_checkpoints
+ipython_config.py
+.python-version
+__pypackages__/
+venv
+.idea/
+**/bot_token.*
+**/*.csv
